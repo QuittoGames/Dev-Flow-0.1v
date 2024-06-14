@@ -1,4 +1,4 @@
-# Dev-Flow-0.1v
+Dev-Flow-0.1v
 Português (Portuguese)
 DevFlow
 
@@ -10,12 +10,12 @@ Certas configurações sensíveis, como chaves de API, são gerenciadas através
 
 Sobre o Desenvolvedor
 
-Meu nome é Quitto, sou um entusiasta de programação sério e comprometido com o aprendizado na área de engenharia de software. Estou criando o DevFlow para ajudar outros desenvolvedores a acelerar seu fluxo de trabalho e aumentar a eficiência na criação de projetos.
+Meu nome é Quitto, sou um estudante dedicado e apaixonado por programação, focado em aprender na área de engenharia de software. Estou criando o DevFlow para ajudar outros estudantes e desenvolvedores a acelerar seu fluxo de trabalho e aumentar a eficiência na criação de projetos.
 
 Recursos Atuais
 
 Organizador de Pastas
-ChromeOpenAuto IN DEV
+ChromeOpenAuto EM DESENVOLVIMENTO
 Criar Pasta
 Criar Arquivo
 Como Usar
@@ -41,12 +41,12 @@ Certain sensitive settings, such as API keys, are managed through environment va
 
 About the Developer
 
-My name is Quitto, I'm a serious programming enthusiast committed to learning in the field of software engineering. I'm creating DevFlow to help other developers speed up their workflow and increase efficiency in project creation.
+My name is Quitto, I'm a dedicated student and passionate about programming, focused on learning in the field of software engineering. I'm creating DevFlow to help other students and developers speed up their workflow and increase efficiency in project creation.
 
 Current Features
 
 Folder Organizer
-ChromeOpenAuto IN DEV
+ChromeOpenAuto UNDER DEVELOPMENT
 Create Folder
 Create File
 Chat GPT
